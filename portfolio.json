@@ -1,0 +1,20 @@
+{
+  "id": "ella-fitzgerald-site",
+  "title": "Ella Fitzgerald Tribute Site",
+  "track": "software-developer",
+  "summary": "A university web assignment: a tribute page to Ella Fitzgerald with a biography, photo gallery and discography, plus a small Express server with a login API.",
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Node.js",
+    "Express"
+  ],
+  "repo": "https://github.com/VinceVSCode/3www",
+  "demo_url": null,
+  "thumbnail": null,
+  "demo_media": null,
+  "run_command": null,
+  "status": "first-attempt",
+  "version": null
+}
